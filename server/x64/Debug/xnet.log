@@ -1,0 +1,13 @@
+﻿  app.c
+  port_pcap.c
+  xserver_datetime.c
+  xserver_http.c
+D:\Applications\BaiduNetdisk\Download\自己动手写TCP+WEB服务器\源码\Learning-DIY-TCPIP_WEB-master\server\src\xnet_app\xserver_http.c(92,48): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Applications\BaiduNetdisk\Download\自己动手写TCP+WEB服务器\源码\Learning-DIY-TCPIP_WEB-master\server\src\xnet_app\xserver_http.c(117,48): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Applications\BaiduNetdisk\Download\自己动手写TCP+WEB服务器\源码\Learning-DIY-TCPIP_WEB-master\server\src\xnet_app\xserver_http.c(121,64): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\Applications\BaiduNetdisk\Download\自己动手写TCP+WEB服务器\源码\Learning-DIY-TCPIP_WEB-master\server\src\xnet_app\xserver_http.c(99,9): warning C4101: “i”: 未引用的局部变量
+  xnet_tiny.c
+D:\Applications\BaiduNetdisk\Download\自己动手写TCP+WEB服务器\源码\Learning-DIY-TCPIP_WEB-master\server\src\xnet_tiny\xnet_tiny.c(7,1): warning C4005: “min”: 宏重定义
+D:\Windows Kits\10\Include\10.0.19041.0\ucrt\stdlib.h(1283): message : 参见“min”的前一个定义
+  正在生成代码...
+  xnet.vcxproj -> D:\Applications\BaiduNetdisk\Download\自己动手写TCP+WEB服务器\源码\Learning-DIY-TCPIP_WEB-master\server\x64\Debug\xnet.exe

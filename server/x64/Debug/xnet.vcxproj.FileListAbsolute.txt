@@ -1,0 +1,2 @@
+D:\Applications\BaiduNetdisk\Download\自己动手写TCP+WEB服务器\源码\Learning-DIY-TCPIP_WEB-master\xnet_tiny_c0703\x64\Debug\xnet.exe
+D:\Applications\BaiduNetdisk\Download\自己动手写TCP+WEB服务器\源码\Learning-DIY-TCPIP_WEB-master\server\x64\Debug\xnet.exe

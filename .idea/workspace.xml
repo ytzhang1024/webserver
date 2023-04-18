@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc65e580-d7a5-4f8d-a439-9d26d9dd6884" name="Default Changelist" comment="修改tcp缓存大小，去掉无用的网站">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectId" id="1eITmskcwjYIROrpgn6MdmgrFfJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/xnet_tiny_c0702/src/xnet_tiny" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\tongban\git\xnet_tiny\xnet_tiny_c0702\src\xnet_tiny" />
+      <recent name="D:\tongban\git\xnet_tiny\xnet_tiny_c0701\src\xnet_tiny" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/xnet_tiny_c0700" />
+      <recent name="D:\tongban\git\xnet_tiny" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc65e580-d7a5-4f8d-a439-9d26d9dd6884" name="Default Changelist" comment="" />
+      <created>1589110546426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589110546426</updated>
+      <workItem from="1589110549851" duration="6666000" />
+      <workItem from="1589151440631" duration="6278000" />
+      <workItem from="1589177999501" duration="4971000" />
+      <workItem from="1589183997370" duration="3091000" />
+      <workItem from="1589190154447" duration="3617000" />
+      <workItem from="1589201617688" duration="582000" />
+      <workItem from="1589287197513" duration="349000" />
+      <workItem from="1589340731889" duration="294000" />
+      <workItem from="1589341868880" duration="1843000" />
+      <workItem from="1589344020272" duration="1276000" />
+      <workItem from="1589345823629" duration="1105000" />
+      <workItem from="1589348096050" duration="1307000" />
+      <workItem from="1591508202161" duration="330000" />
+      <workItem from="1591513508047" duration="52000" />
+      <workItem from="1591522749284" duration="75000" />
+      <workItem from="1591575077806" duration="29000" />
+      <workItem from="1591583155942" duration="7000" />
+      <workItem from="1591594236862" duration="87000" />
+      <workItem from="1591968051726" duration="299000" />
+      <workItem from="1592203737293" duration="477000" />
+      <workItem from="1592369806356" duration="926000" />
+      <workItem from="1592373031032" duration="4000" />
+      <workItem from="1592627840335" duration="1763000" />
+      <workItem from="1592629710595" duration="1653000" />
+      <workItem from="1592654322562" duration="1796000" />
+      <workItem from="1592656567412" duration="606000" />
+      <workItem from="1592968057851" duration="311000" />
+      <workItem from="1592972026811" duration="749000" />
+      <workItem from="1592974492782" duration="397000" />
+      <workItem from="1592979983182" duration="647000" />
+      <workItem from="1592981795743" duration="1095000" />
+      <workItem from="1592999845624" duration="1502000" />
+      <workItem from="1593252125191" duration="638000" />
+      <workItem from="1593259178333" duration="1830000" />
+      <workItem from="1593400491965" duration="35000" />
+      <workItem from="1593605563887" duration="1239000" />
+      <workItem from="1593607323283" duration="17000" />
+      <workItem from="1593863771635" duration="1802000" />
+      <workItem from="1593865612661" duration="1231000" />
+      <workItem from="1594007619719" duration="168000" />
+      <workItem from="1594181507857" duration="6000" />
+      <workItem from="1594181542338" duration="538000" />
+      <workItem from="1594185372258" duration="1308000" />
+      <workItem from="1594187704317" duration="287000" />
+      <workItem from="1594815114947" duration="1246000" />
+      <workItem from="1594816932956" duration="1434000" />
+      <workItem from="1594818922796" duration="625000" />
+      <workItem from="1595071493725" duration="127000" />
+      <workItem from="1595120477897" duration="2056000" />
+      <workItem from="1595134003834" duration="2901000" />
+      <workItem from="1595144954238" duration="1869000" />
+      <workItem from="1595146947661" duration="7000" />
+      <workItem from="1595147549842" duration="515000" />
+      <workItem from="1595158429759" duration="1789000" />
+      <workItem from="1595161023766" duration="1242000" />
+      <workItem from="1595204592206" duration="197000" />
+      <workItem from="1595208881406" duration="597000" />
+      <workItem from="1595231154832" duration="1655000" />
+      <workItem from="1595233028660" duration="441000" />
+      <workItem from="1595237572083" duration="109000" />
+      <workItem from="1595241525461" duration="1520000" />
+      <workItem from="1595243755255" duration="1103000" />
+      <workItem from="1595246186373" duration="1142000" />
+      <workItem from="1595247358661" duration="1161000" />
+      <workItem from="1595289133895" duration="4018000" />
+      <workItem from="1595320004378" duration="1585000" />
+      <workItem from="1595321639163" duration="2117000" />
+      <workItem from="1595324360763" duration="1442000" />
+      <workItem from="1595326181706" duration="1875000" />
+      <workItem from="1595332741815" duration="1063000" />
+      <workItem from="1595372901258" duration="1275000" />
+      <workItem from="1595376343343" duration="667000" />
+      <workItem from="1595378274506" duration="361000" />
+      <workItem from="1595381037311" duration="301000" />
+      <workItem from="1595382870832" duration="394000" />
+      <workItem from="1595411212851" duration="96000" />
+      <workItem from="1595460237684" duration="1050000" />
+      <workItem from="1595472531314" duration="1139000" />
+      <workItem from="1595474249589" duration="7000" />
+      <workItem from="1595474410160" duration="92000" />
+      <workItem from="1595489019245" duration="340000" />
+      <workItem from="1595498712704" duration="2020000" />
+      <workItem from="1595506661882" duration="177000" />
+      <workItem from="1595575824320" duration="1534000" />
+      <workItem from="1595742388734" duration="8000" />
+    </task>
+    <task id="LOCAL-00001" summary="修改contact">
+      <created>1595575939082</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595575939082</updated>
+    </task>
+    <task id="LOCAL-00002" summary="修改tcp缓存大小，去掉无用的网站">
+      <created>1595577335254</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595577335254</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改contact" />
+    <MESSAGE value="修改tcp缓存大小，去掉无用的网站" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改tcp缓存大小，去掉无用的网站" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="803" y="157" width="1736" height="896" maximized="true" key="DiffContextDialog" timestamp="1595506838226">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="803" y="157" width="1736" height="896" maximized="true" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1595506838226" />
+    <state x="151" y="97" key="MergeDialog" timestamp="1595575996077">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="151" y="97" key="MergeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1595575996077" />
+    <state x="845" y="406" width="425" height="268" key="MultipleFileMergeDialog" timestamp="1595576000957">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="845" y="406" width="425" height="268" key="MultipleFileMergeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1595576000957" />
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1595577345119">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1595577345119" />
+    <state x="746" y="273" key="VcsDiffUtil.ChangesDialog" timestamp="1595384886803">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="746" y="273" key="VcsDiffUtil.ChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1595384886803" />
+    <state x="128" y="330" width="678" height="704" key="find.popup" timestamp="1595576485173">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="128" y="330" width="678" height="704" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1595576485173" />
+    <state x="616" y="250" key="run.anything.popup" timestamp="1595385194740">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1595385194740" />
+  </component>
+</project>
